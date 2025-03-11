@@ -1,0 +1,1 @@
+# Hospitality_Domain-_Analysis_Atliq_Hardware
