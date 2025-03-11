@@ -20,8 +20,8 @@ In this project, data was initially loaded from Excel files into Power BI. I use
 - **Power BI**: Dashboard creation and visualization.
 
 ## Insights
-  1.There is a fluctuation in PEVPAR (Per-Available-Room Revenue) with occupancy, but the ADR (Average Daily Rate) remains constant. Therefore, the hotel can adjust pricing based on occupancy to maximize revenue.
-  2.Hotels with the lowest occupancy rates tend to have lower customer ratings as well. It’s important to identify the reasons behind these low ratings. Addressing these issues can improve guest satisfaction and potentially increase both occupancy and ratings.
+  1.There is a fluctuation in PEVPAR (Per-Available-Room Revenue) with occupancy, but the ADR (Average Daily Rate) remains constant. Therefore, the hotel can adjust pricing based on occupancy to maximize revenue.<br>
+  2.Hotels with the lowest occupancy rates tend to have lower customer ratings as well. It’s important to identify the reasons behind these low ratings. Addressing these issues can improve guest satisfaction and potentially increase both occupancy and ratings.<br>
   3.ADR remains almost the same across various booking platforms but is higher on direct offline bookings. Offering discount coupons for promotions on the hotel’s own platform can attract more customers, as no commission is paid to third-party platforms.
   
 - **Overall Metrics:**
